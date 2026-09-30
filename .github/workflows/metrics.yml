@@ -28,8 +28,8 @@ jobs:
           user: sinxy-sai
           template: classic
           base: header, activity, community, repositories, metadata
-          # Reserve space for the calendar and footer so GitHub does not crop the SVG
-          config_padding: 20
+          # Add vertical space for the calendar and footer so GitHub does not crop the SVG
+          config_padding: 0, 40
           config_timezone: Asia/Shanghai
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
