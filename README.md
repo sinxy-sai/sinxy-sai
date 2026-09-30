@@ -23,12 +23,15 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sinxy-sai&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinxy-sai&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&cache_seconds=86400" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sinxy-sai&show_icons=true&hide_border=true&theme=default&cache_seconds=86400#gh-light-mode-only" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sinxy-sai&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400#gh-dark-mode-only" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinxy-sai&layout=compact&hide_border=true&langs_count=8&theme=default&cache_seconds=86400#gh-light-mode-only" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinxy-sai&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&cache_seconds=86400#gh-dark-mode-only" alt="Top languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=sinxy-sai&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=sinxy-sai&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=sinxy-sai&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="GitHub contribution streak" />
 
 </div>
 
@@ -36,7 +39,8 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinxy-sai&theme=github_dark" alt="GitHub profile summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinxy-sai&theme=default#gh-light-mode-only" alt="GitHub profile summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinxy-sai&theme=github_dark#gh-dark-mode-only" alt="GitHub profile summary" />
 
 </div>
 
