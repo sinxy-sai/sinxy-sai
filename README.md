@@ -70,6 +70,10 @@
 
 </div>
 
+## 📊 GitHub Metrics
+
+![Metrics](https://raw.githubusercontent.com/sinxy-sai/sinxy-sai/main/github-metrics.svg)
+
 ## 💬 Quote
 
 <div align="center">
