@@ -60,13 +60,15 @@
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/22c55e/sinxy-sai" alt="GitHub contribution chart" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinxy-sai/sinxy-sai/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinxy-sai/sinxy-sai/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sinxy-sai/sinxy-sai/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
+</picture>
+
+<br />
 
 </div>
-
-## 📊 GitHub Metrics
-
-![Metrics](https://raw.githubusercontent.com/sinxy-sai/sinxy-sai/main/github-metrics.svg)
 
 ## 💬 Quote
 
