@@ -23,15 +23,24 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sinxy-sai&show_icons=true&hide_border=true&theme=default&cache_seconds=86400#gh-light-mode-only" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sinxy-sai&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400#gh-dark-mode-only" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinxy-sai&layout=compact&hide_border=true&langs_count=8&theme=default&cache_seconds=86400#gh-light-mode-only" alt="Top languages" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinxy-sai&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&cache_seconds=86400#gh-dark-mode-only" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sinxy-sai&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sinxy-sai&show_icons=true&hide_border=true&theme=default&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sinxy-sai&show_icons=true&hide_border=true&theme=default&cache_seconds=86400" alt="GitHub statistics" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sinxy-sai&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sinxy-sai&layout=compact&hide_border=true&langs_count=8&theme=default&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinxy-sai&layout=compact&hide_border=true&langs_count=8&theme=default&cache_seconds=86400" alt="Top languages" />
+</picture>
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=sinxy-sai&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub contribution streak" />
-<img src="https://streak-stats.demolab.com?user=sinxy-sai&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="GitHub contribution streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sinxy-sai&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sinxy-sai&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sinxy-sai&theme=default&hide_border=true" alt="GitHub contribution streak" />
+</picture>
 
 </div>
 
@@ -39,8 +48,11 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinxy-sai&theme=default#gh-light-mode-only" alt="GitHub profile summary" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinxy-sai&theme=github_dark#gh-dark-mode-only" alt="GitHub profile summary" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinxy-sai&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinxy-sai&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinxy-sai&theme=default" alt="GitHub profile summary" />
+</picture>
 
 </div>
 
@@ -73,7 +85,6 @@ If you find something interesting here, feel free to ⭐ a repository, open an i
 <a href="mailto:absz736824sx@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
 <a href="https://discordapp.com/users/1476148756150882316"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
-<br /><br />
 
 ✨ Thanks for stopping by!
 
