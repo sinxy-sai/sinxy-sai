@@ -29,7 +29,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           # Add vertical space for the calendar and footer so GitHub does not crop the SVG
-          config_padding: 0, 40
+          config_padding: 0, 15%
           config_timezone: Asia/Shanghai
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
