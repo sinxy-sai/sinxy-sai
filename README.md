@@ -92,7 +92,7 @@ If you find something interesting here, feel free to ⭐ a repository, open an i
 
 <a href="https://github.com/sinxy-sai?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
 <a href="https://github.com/sinxy-sai"><img src="https://img.shields.io/badge/Follow_me-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
-<a href="mailto:absz736824sx@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+<a href="mailto:absz736824sx@outlook.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-0078D4?style=for-the-badge&logo=mail&logoColor=white" alt="Email" /></a>
 <a href="https://discordapp.com/users/1476148756150882316"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
 
