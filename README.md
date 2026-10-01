@@ -7,7 +7,8 @@
 </a>
 
 [![GitHub](https://img.shields.io/badge/GitHub-sinxy--sai-181717?style=flat-square&logo=github)](https://github.com/sinxy-sai)
-[![Profile views](https://komarev.com/ghpvc/?username=sinxy-sai&style=flat-square&color=blueviolet)](https://github.com/sinxy-sai)
+
+[![Profile views](https://count.getloli.com/@sinxy-sai?name=sinxy-sai&theme=capoo-2&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto)](https://github.com/sinxy-sai)
 
 </div>
 
